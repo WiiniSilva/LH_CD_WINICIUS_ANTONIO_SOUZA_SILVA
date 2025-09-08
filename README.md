@@ -118,10 +118,6 @@ Apesar de as Overviews serem muitas vezes genéricas, combiná-las com técnicas
 
 ---
 
-O estudo indica que, para maximizar qualidade percebida e retorno financeiro, é estratégico considerar **diretor, gênero, orçamento e franquia**. Os resumos fornecem pistas valiosas sobre o gênero, mas sua análise isolada tem limitações. Modelos de machine learning integrando texto e dados estruturados, como **Random Forest com variáveis selecionadas pela EDA**, se mostraram eficazes para predizer notas no IMDb, oferecendo uma base sólida para decisões de produção e recomendação de filmes.
-
----
-
 ### 3.1. Explique como você faria a previsão da nota do imdb a partir dos dados. Quais variáveis e/ou suas transformações você utilizou e por quê?
 
 Para prever a nota do IMDb dos filmes, estamos lidando com um **problema de regressão**, já que o alvo é contínuo, ou seja, queremos estimar o valor numérico da nota de cada filme. O objetivo do modelo é prever a nota usando apenas informações que estariam disponíveis **antes do lançamento**, evitando dados do futuro que poderiam distorcer o aprendizado (problema de *data leakage*).
