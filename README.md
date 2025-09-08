@@ -76,7 +76,7 @@ print(f"Predições: {y_pred}")
 
 ### 2.a. Qual filme você recomendaria para uma pessoa que você não conhece?
 
-Se a gente não sabe bem o gosto da pessoa, a melhor saída é indicar filmes que tenham **notas altas no IMDb** e um **ROI mais equilibrado**, porque isso aumenta as chances de o filme ter qualidade e agradar. Diretores como **Christopher Nolan** costumam manter um padrão de avaliações bem alto, enquanto **Steven Spielberg** consegue unir boa recepção do público com retorno financeiro forte. Já nos gêneros, **Mystery** e **Western** apareceram com as maiores notas médias, então acabam sendo apostas seguras para recomendar de forma geral. No fim, recomendaría obras desses diretores ou desses gêneros, já que unem qualidade, boa aceitação do público e potencial de agradar mesmo sem conhecer seu gosto.
+Como não conheço a pessoa nem seus gostos, eu indicar filmes que tenham **notas altas no IMDb** e um **ROI mais equilibrado**, porque isso aumenta as chances de o filme ter qualidade e agradar. Diretores como **Christopher Nolan** costumam manter um padrão de avaliações bem alto, enquanto **Steven Spielberg** consegue unir boa recepção do público com retorno financeiro forte. Já nos gêneros, **Mystery** e **Western** apareceram com as maiores notas médias, então acabam sendo apostas seguras para recomendar de forma geral. No fim, recomendaría obras desses diretores ou desses gêneros, já que unem qualidade, boa aceitação do público e potencial de agradar mesmo sem conhecer seu gosto.
 
 ---
 
